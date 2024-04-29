@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <booleanAttribute key="org.eclipse.debug.core.ATTR_FORCE_SYSTEM_CONSOLE_ENCODING" value="false"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/javasimple/src/main/java/javasimple/HelloWorldIgnite.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+    <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="javasimple.HelloWorldIgnite"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="javasimple"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="javasimple"/>
+    <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="--add-opens=java.base/jdk.internal.access=ALL-UNNAMED&#10;--add-opens=java.base/jdk.internal.misc=ALL-UNNAMED&#10;--add-opens=java.base/sun.nio.ch=ALL-UNNAMED&#10;--add-opens=java.base/sun.util.calendar=ALL-UNNAMED&#10;--add-opens=java.management/com.sun.jmx.mbeanserver=ALL-UNNAMED&#10;--add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED&#10;--add-opens=java.base/sun.reflect.generics.reflectiveObjects=ALL-UNNAMED&#10;--add-opens=jdk.management/com.sun.management.internal=ALL-UNNAMED&#10;--add-opens=java.base/java.io=ALL-UNNAMED&#10;--add-opens=java.base/java.nio=ALL-UNNAMED&#10;--add-opens=java.base/java.net=ALL-UNNAMED&#10;--add-opens=java.base/java.util=ALL-UNNAMED&#10;--add-opens=java.base/java.util.concurrent=ALL-UNNAMED&#10;--add-opens=java.base/java.util.concurrent.locks=ALL-UNNAMED&#10;--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED&#10;--add-opens=java.base/java.lang=ALL-UNNAMED&#10;--add-opens=java.base/java.lang.invoke=ALL-UNNAMED&#10;--add-opens=java.base/java.math=ALL-UNNAMED&#10;--add-opens=java.sql/java.sql=ALL-UNNAMED&#10;--add-opens=java.base/java.lang.reflect=ALL-UNNAMED&#10;--add-opens=java.base/java.time=ALL-UNNAMED&#10;--add-opens=java.base/java.text=ALL-UNNAMED&#10;--add-opens=java.management/sun.management=ALL-UNNAMED&#10;--add-opens java.desktop/java.awt.font=ALL-UNNAMED"/>
+</launchConfiguration>
